@@ -42,4 +42,3 @@ I am a backend-focused Full-Stack Developer and AI Fellow with a deep love for c
 *   💻 **Looking for a freelancer?** Let's discuss your project scope.
 *   🔧 **Want to collaborate?** Tag me in an open issue or repository.
 *   📫 **Reach out directly via email:** [webdevayo@gmail.com]
-*   🔗 **Connect on LinkedIn:** [www.linkedin.com/in/matthew-adedeji-98850425b]
