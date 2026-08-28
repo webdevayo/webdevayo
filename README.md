@@ -1,4 +1,4 @@
-# Hi there, I'm Matthew Ayomide Adedeji! 👋
+# Hi there, I'm Ayomide Adedeji! 👋
 
 I am a backend-focused Full-Stack Developer and AI Fellow with a deep love for clean architecture, algorithmic logic, and building efficient web systems. Whether I am optimizing an engine in Go, building production-ready Python services, or contributing to open-source blockchain ecosystems, I focus on writing highly readable, deterministic code.
 
